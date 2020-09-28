@@ -47,10 +47,14 @@ Para descubrir insights de las perspectivas de los usuarios, se procedió a real
 
 Investigación cualitativa: 
 
-Método empleado: Entrevistas 
+Método empleado: Entrevistas
+
 Medios de comunicación utilizados: Videollamadas (Zoom, Whatsapp) y presencial.
+
 Evidencias: audios, fotos, videos.
+
 Entrevistados:
+
 * Laura Elizabeth Balboa Albitres
 * María Zoila Guzmán Dávalos
 * Lucho Merino Palomino
@@ -78,12 +82,16 @@ Herramientas empleadas:
 Al poder conocer la problemática de los usuarios, se realizó una lluvia de ideas para plantear la solución más idónea para los usuarios. 
 Herramientas empleadas: 
 * Brainstorming 
-* Mapa mental
 * Casos de uso
+* Mapa mental
+![](img/Mapa_mental.jpg)
 
 Luego de realizar el análisis respectivo, se planteó el diseño de una plataforma educativa dirigida para docentes mayores del nivel primario que cuente con opciones que le permita planificar y gestionar sus clases de manera práctica.  
 
 ### Prototipado
+Userflow
+![](img/userflow.jpg)
+
 Creación de prototipo
 
 [Prototipo de baja fidelidad](https://www.figma.com/proto/Kkkqul3H8CcVUs2LlH5ewe/Mind-Blank?node-id=0%3A1)
