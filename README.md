@@ -94,6 +94,7 @@ Creación de prototipo
 #### Test de usabilidad
 Se iteró el prototipo de baja fidelidad con 5 usuarios. Gracias a ello, se encontrarón diversos hallazgos, con respecto diseño y navegación de la plataforma.
 ![](img/test.jpg)
+
 Hallazgos:
 * La interfaz no deben tener mucha carga cognitiva.
 * La iconografía debe ser universal y sólida.
