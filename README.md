@@ -30,6 +30,7 @@ Objetivos específicos:
 
 ## Investigación UX:
 [Desarrollo del proyecto](https://miro.com/app/board/o9J_kkqvhQM=/)
+
 Para realizar el presente proyecto, se tomó en cuenta el proceso de diseño de la metodología Design Thinking.
 ### Empatizar
 
