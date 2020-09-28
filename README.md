@@ -84,7 +84,9 @@ Luego de realizar el análisis respectivo, se planteó el diseño de una platafo
 
 ### Prototipado
 Creación de prototipo
+
 [Prototipo de baja fidelidad](https://www.figma.com/proto/Kkkqul3H8CcVUs2LlH5ewe/Mind-Blank?node-id=0%3A1)
+
 [Prototipo de alta fidelidad](https://www.figma.com/proto/elL8K3OMhcDqgl5GVereGX/Mind-Blank---AF?node-id=0%3A1&scaling=min-zoom)
 
 ### Testeo
