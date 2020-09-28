@@ -7,7 +7,7 @@ En Perú, debido a la pandemia, todas las entidades educativas deben realizar su
 A muchos docentes se les ha dificultado la migración a esta forma de trabajo, generando diversos inconvenientes con la interacción de las plataformas virtuales, entre ellos están: el desconocimiento del manejo de las herramientas, retraso en las clases virtuales, problemas con la señal de internet, entre otros.
 
 Para entender mejor el contexto actual con respecto al desempeño de los docentes en las clases virtuales, se realizó una investigación con respecto a cómo viven y lidian con esta nueva modalidad de enseñanza.
-![](img/primeros-hallazgos.png)
+![](img/primeros_hallazgos.png)
 
 ## Resumen del proyecto
 
