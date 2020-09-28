@@ -102,8 +102,3 @@ Hallazgos:
 * Incluir una guía de navegación en toda la plataforma para los usuarios nuevos.
 * La plataforma debe tener opciones dinámicas cuando el usuario estructure las tareas.
 
-### Resultados:
-
-### Prototipos de baja fidelidad:
-
-### Prototipos de alta fidelidad:
